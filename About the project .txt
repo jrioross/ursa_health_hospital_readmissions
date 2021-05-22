@@ -1,0 +1,50 @@
+Ursa Health
+
+Aaron Mock
+Ryan O'Connell -- "Director of Knowledge"
+
+deliverables
+	list of patients
+	list of patient conditions
+	list of hospitals with high-volume admissions/readmissions
+	
+	dashboard showing hospitals/time/geography
+	"what is the intervention this is going to drive?"
+		monthly tracking
+		major concerns hospitals/pcp
+		financial: looking at hospitals current and effects of change
+	
+project
+
+	measure = realization of performance/opportunity for performance
+	--> patients readmitted within 30 days / all patients admitted for inpatient care
+	emphasis is on *rates*
+
+present the measure's value on a monthly basis
+present the measure's mean value
+present the measure's value in a way that gives a profile of each hospital
+
+	another measure: patients with a PCP visit within 7 days of discharge
+
+tip: picture a collection of all patient's timelines: 30 with the 7 inside
+
+present the measure's value on a monthly basis
+present the measure's mean value
+present the measure's value in a way that gives a profile of individual or primary care providers
+
+ccw: chronic condition warehouse
+
+pcp --> empirically assigned pcp --> assigned pcp
+
+for office visit, want to focus on Service Provider NPI and Provider Group NPI
+
+CMS 30-Day Readmission Document:
+	numerator, denominator, methodology
+	using facility or PCP group NPI rather than TIN
+
+Presentation: Thursday, June 3
+Project Coordinator: JLaw
+Presentation Coordinator: Rachel Hertel
+Presentation Length: 20 - 25 minutes
+
+"_members", "_pcp")
